@@ -26,10 +26,13 @@ Install dependencies with Bundler:
 bundle install
 ```
 
+Uncomment line 27 in `_config.yml` for local development
+
+
 And run the site with Jekyll:
 
 ```
 bundle exec jekyll serve --watch
 ```
 
-If all goes well, visit the site at `http://localhost:4000`.
+If all goes well, visit the site at `http://localhost:4000/software/`.
