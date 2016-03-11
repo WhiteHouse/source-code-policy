@@ -16,7 +16,7 @@ This project is in the worldwide [public domain](LICENSE.md):
 
 ### Privacy
 
-All comments, messages, pull requests, and other submissions received through official White House pages including this GitHub page may be subject to archiving requirements. See the https://www.whitehouse.gov/privacy for more information.
+All comments, messages, pull requests, and other submissions received through official White House pages including this GitHub page may be subject to archiving requirements. See the <https://www.whitehouse.gov/privacy> for more information.
 
 ### Developing on the site locally
 
@@ -34,4 +34,4 @@ And run the site with Jekyll:
 bundle exec jekyll serve --watch --baseurl ''
 ```
 
-If all goes well, visit the site at http://localhost:4000.
+If all goes well, visit the site at <http://localhost:4000>.
