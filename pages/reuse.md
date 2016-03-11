@@ -7,7 +7,7 @@ description: ""
 
 ## 4. Government-Wide Code Reuse
 
-Under U.S. copyright law, all software created by Federal Government employees as a “government work” is in the public domain and, accordingly, is not subject to copyright protection in the United States.<sup id="fnr23"><a href="#fn23">23</a></sup> However, software created on behalf of the Government by third parties, such as private sector vendors, is subject to copyright protection. Currently, the majority of software solutions used in the Federal Government are developed by third parties.
+Under U.S. copyright law, all software created by Federal Government employees as a “government work”, expect that developed for National Security Systems, as defined in 44 U.S.C. §3542, is in the public domain and, accordingly, is not subject to copyright protection in the United States.<sup id="fnr23"><a href="#fn23">23</a></sup> However, software created on behalf of the Government by third parties, such as private sector vendors, is subject to copyright protection. Currently, the majority of software solutions used in the Federal Government are developed by third parties.
 
 As discussed earlier, the reuse of custom-developed source code purchased by the Federal Government has numerous benefits for American taxpayers. To take advantage of these benefits, all covered agencies and component organizations that procure custom-developed software solutions for the Federal Government must, at a minimum, comply with the following requirements:
 
