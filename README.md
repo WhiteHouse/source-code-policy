@@ -1,6 +1,6 @@
 # Federal Source Code Policy
 
-#### Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software
+## Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software
 
 The White House committed to adopting a Government-wide Open Source Software policy in its [Second Open Government National Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/new_nap_commitments_report_092314.pdf) (NAP) that “will support improved access to custom software code developed for the Federal Government,” emphasizing that using and contributing back to open source software can fuel innovation, lower costs, and benefit the public. In light of that commitment, the [White House Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is accepting public comments on a draft policy to improve the way custom-developed Government code is acquired and distributed moving forward.
 
