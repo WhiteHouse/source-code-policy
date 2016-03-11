@@ -5,6 +5,7 @@
 The White House committed to adopting a Government-wide Open Source Software policy in its [Second Open Government National Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/new_nap_commitments_report_092314.pdf) (NAP) that “will support improved access to custom software code developed for the Federal Government,” emphasizing that using and contributing back to open source software can fuel innovation, lower costs, and benefit the public. In light of that commitment, the [White House Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is accepting public comments on a draft policy to improve the way custom-developed Government code is acquired and distributed moving forward.
 
 The proposed guidance is now open for public comment on this page. The public comment period will begin on March 10, 2016 and end on April 11, 2016. Following the public comment period, OMB will analyze all submitted feedback and revise the policy as necessary.
+
 ### Public domain
 
 This project is in the worldwide [public domain](LICENSE.md):
