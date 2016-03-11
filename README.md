@@ -24,13 +24,13 @@ This site uses [Jekyll](http://jekyllrb.com), [Sass](http://sass-lang.com), [Bou
 
 Install dependencies with [Bundler](http://bundler.io/):
 
-```
+```shell
 bundle install
 ```
 
 And run the site with Jekyll:
 
-```
+```shell
 bundle exec jekyll serve --watch --baseurl ''
 ```
 
