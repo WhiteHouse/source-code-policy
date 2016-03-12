@@ -15,7 +15,7 @@ Within 90 days of the publication date of this policy, the Administration will l
 
 **Code Repositories**
 
-Accessible repositories for the storage, discussion, and modification of custom code are a critical portion of both the Government-wide reuse and OSS pilot program portions of this policy. Covered agencies should utilize existing code repositories and common third-party repository platforms as necessary to comply with this policy.<sup id="fnr43"><a href="#fn43">43</a></sup>  Project Open Source will contain additional guidance on using custom code repositories as related to achieving the objectives of this policy.  
+Accessible repositories for the storage, discussion, and modification of custom code are a critical portion of both the Government-wide reuse and OSS pilot program portions of this policy. Covered agencies should use existing code repositories and common third-party repository platforms as necessary to comply with this policy.<sup id="fnr43"><a href="#fn43">43</a></sup>  Project Open Source will contain additional guidance on using custom code repositories as related to achieving the objectives of this policy.  
 
 **Code Inventories and Discovery**
 
@@ -37,7 +37,7 @@ Progress on agency implementation of the actions required in this policy will be
 
 **Exceptions to Government-wide Reuse or to Publication**
 
-The exceptions provided below may be applied, in specific instances, to exempt a covered agency from (1) sharing custom code with other Government agencies, or (2) publically releasing custom code that is developed by covered agency employees.  Any exceptions used must be approved and documented by the agency’s CIO. Please note that the exceptions below do not exempt a covered agency from acquiring unlimited data rights in newly procured custom code. Moreover, these exceptions do not apply in calculating a covered agency’s codebase for purposes of the OSS pilot program; but covered agencies should, as part of their internal 20 percent of custom code selection process, refrain from selecting code that would fit any of the characteristics listed below. In the event that a covered agency’s CIO believes that the agency cannot meet the 20 percent requirement of the OSS pilot program because the agency is otherwise prohibited from releasing more than 80 percent of its code, the CIO should consult with OMB.
+The exceptions provided below may be applied, in specific instances, to exempt a covered agency from (1) sharing custom code with other Government agencies, or (2) publically releasing custom code that is developed by covered agency employees. Any exceptions used must be approved and documented by the agency’s CIO. Please note that the exceptions below do not exempt a covered agency from acquiring unlimited data rights in newly procured custom code. Moreover, these exceptions do not apply in calculating a covered agency’s codebase for purposes of the OSS pilot program; but covered agencies should, as part of their internal 20 percent of custom code selection process, refrain from selecting code that would fit any of the characteristics listed below. In the event that a covered agency’s CIO believes that the agency cannot meet the 20 percent requirement of the OSS pilot program because the agency is otherwise prohibited from releasing more than 80 percent of its code, the CIO should consult with OMB.
 
 Applicable exceptions are as follows:
 
@@ -56,10 +56,11 @@ OMB expects exceptions to be rare and the result of a significant Government int
 <li id="fn39"><sup>39</sup> <em>See P.L 113-291, Subtitle D</em> (<a href="https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148">https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148</a>) <a href="#fnr39">&#8617;</a></li>
 <li id="fn40"><sup>40</sup> <em>See</em> <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf">https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf</a> <a href="#fnr40">&#8617;</a></li>
 <li id="fn41"><sup>41</sup> Senior Agency Officials include positions that may include the Chief Acquisition Officer, Chief Operating Officer, Chief Financial Officer, Chief Acquisitions Officer, Chief Technology Officer, Chief Data Officer, Senior Agency Official for Privacy, Chief Information Security Officer, and Program Manager. <a href="#fnr41">&#8617;</a></li>
-<li id="fn42"><sup>42</sup> Project Open Source will be modeled off of the successful Project Open Data platform that facilitates implementation of the Open Data Policy. <em>See</em> <a href="https://project-open-data.cio.gov/">https://project-open-data.cio.gov/</a>. <a href="#fnr42">&#8617;</a></li>
+<li id="fn42"><sup>42</sup> Project Open Source will be modeled on the successful Project Open Data platform that facilitates implementation of the Open Data Policy. <em>See</em> <a href="https://project-open-data.cio.gov/">https://project-open-data.cio.gov/</a>. <a href="#fnr42">&#8617;</a></li>
 <li id="fn43"><sup>43</sup> Covered agencies should ensure access to these services. <em>See</em> OMB Memorandum M-10-23 (<em>Guidance for Agency Use of Third-Party Websites and Applications</em>). <a href="#fnr43">&#8617;</a></li>
 <li id="fn44"><sup>44</sup> <em>See</em> OMB Circular A-130, Transmittal Memorandum No. 4, section 8(b)(2)(a). <a href="#fnr44">&#8617;</a></li>
 <li id="fn45"><sup>45</sup> <em>See</em> <a href="https://playbook.cio.gov/techfar/">https://playbook.cio.gov/techfar/</a> <a href="#fnr45">&#8617;</a></li>
 <li id="fn46"><sup>46</sup> <em>See</em> M-15-14 at <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf">https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf</a> (requiring thatIT policies be posted publicly at <em>https://[agency].gov/digitalstrategy</em>, and included as a downloadable dataset in the agency’s Public Data Listing). <a href="#fnr46">&#8617;</a></li>
 <li id="fn47"><sup>47</sup> <em>See</em> <a href="https://itdashboard.gov/">https://itdashboard.gov/</a> <a href="#fnr47">&#8617;</a></li>
+
 </ul>
