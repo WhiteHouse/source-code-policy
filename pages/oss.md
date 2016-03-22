@@ -21,11 +21,13 @@ As outlined in the OMB Open Government Directive,<sup id="fnr35"><a href="#fn35"
 
 ### 5.1 Pilot Program
 
-In furtherance of the objectives outlined in the Open Government Directive, this policy requires that covered agencies participate in the following pilot program to encourage the development and publication of custom-developed Government code as OSS.
+In furtherance of the objectives outlined in the Open Government Directive, this policy requires that covered agencies participate in the following pilot program to encourage the development and publication of custom-developed Government code as OSS, and the re-use of that and other OSS code.
 
 Each covered agency shall release at least 20 percent of its newly-developed custom code each year as OSS. Custom code is defined as code for all custom software projects, modules, and add-ons that are self-contained.<sup id="fnr38"><a href="#fn38">38</a></sup> When deciding which custom code projects to release, each covered agency should prioritize the release of custom code that it considers potentially useful to the broader community.<sup id="fnr39"><a href="#fn39">39</a></sup>
 
 Although the minimum requirement for OSS release is 20 percent of custom code, covered agencies are strongly encouraged to publish as much custom-developed code as possible to further the Federal Government's commitment to transparency, participation, and collaboration. Please note that this requirement refers to new code that is developed by third party developers or vendors on behalf of a covered agency, as opposed to code developed by Federal employees as part of their official duties. As noted previously, all new custom code developed by covered agency employees as part of their official duties shall be released to the public—subject to certain exceptions—as enumerated in Section 6 ("Exceptions to Government-wide Reuse or to Publication").
+
+Further, each covered agency shall require newly-developed custom code projects to either a) comprise at least 20 percent existing reusable code or b) audit the new code and certify that no suitable reusable code was available, from government-available, public domain, or OSS sources to fit the custom requirements.  Note that the 20 percent of code re-used here should not overlap with the 20 percent of code required to be released as OSS.
 
 Within 120 days of the publication of this policy, OMB shall develop metrics to assess the impact of the pilot program. No later than two years after the publication date of this policy, OMB shall consider whether to issue a subsequent policy to continue, modify, eliminate, or expand the pilot program. Unless extended by OMB through the issuance of further guidance, the pilot program will expire three years (36 months) after the publication date of this policy. Please refer to the "Implementation" section of this policy for additional guidance on how to comply with the requirements of the pilot program.
 
