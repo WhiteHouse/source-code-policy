@@ -21,7 +21,7 @@ exclude:
 
 # Site metadata
 name: "Source Code Policy"
-description: "Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software"
+description: "Achieving Efficiency, Transparency, and Innovation through Reusable and Free Software"
 baseurl: https://sourcecode.cio.gov
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
