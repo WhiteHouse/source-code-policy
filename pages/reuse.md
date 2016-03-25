@@ -19,7 +19,7 @@ Covered agencies that enter into agreements for the development of software shou
 
 Securing Federal Government-wide reuse rights for custom code is a critical first step in gaining efficiencies in Federal software purchasing; however, without broad and consistent dissemination of the code across the Federal Government, these efficiencies cannot be fully realized. Therefore, in addition to securing the rights discussed above, covered agencies must make custom-developed code available to all other Federal agencies.<sup id="fnr22"><a href="#fn22">22</a></sup> The "Implementation" section of this policy provides additional guidance on this requirement.
 
-Note that although Government-wide reuse of custom-developed code shares some of the same benefits as OSS, it does not meet the definition of OSS<sup id="fnr23"><a href="#fn23">23</a></sup> and should therefore not be mislabeled as such.
+Note that although Government-wide reuse of custom-developed code shares some of the same benefits as FLOSS, it does not meet the definition of FLOSS<sup id="fnr23"><a href="#fn23">23</a></sup> and should therefore not be mislabeled as such.
 
 ### Footnotes
 
@@ -28,6 +28,6 @@ Note that although Government-wide reuse of custom-developed code shares some of
 <li id="fn20"><sup>20</sup>Per 17 U.S.C. §105, U.S. Government Works are not subject to domestic copyright protection.<a href="#fnr20">&#8617;</a></li>
 <li id="fn21"><sup>21</sup>Additional information about Project Open Source can be found in Section 6: Implementation.<a href="#fnr21">&#8617;</a></li>
 <li id="fn22"><sup>22</sup>Limited exceptions may apply. <em>See</em> "Exceptions" section for additional information.<a href="#fnr22">&#8617;</a></li>
-<li id="fn23"><sup>23</sup>As of the publication date of this policy, the most widely-recognized definition of "Free Software" – both in the U.S. and internationally – is provided by the Open Source Initiative, and provides 10 criteria that software must meet to be considered open source. This definition is accessible at <a href="https://opensource.org/osd">https://opensource.org/osd</a>.<a href="#fnr23">&#8617;</a></li>
+<li id="fn23"><sup>23</sup>As of the publication date of this policy, the most widely-recognized definition of "Free Software" – both in the U.S. and internationally – is provided by the Free Software Foundation, and provides 4 criteria that software must meet to be considered free software. This definition is accessible at <a href="https://www.gnu.org/philosophy/free-sw.html">https://www.gnu.org/philosophy/free-sw.html</a>.<a href="#fnr23">&#8617;</a></li>
 
 </ul>

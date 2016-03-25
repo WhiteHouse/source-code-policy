@@ -46,7 +46,7 @@ navigation:
   url: /Procurement/
 - text: Government-Wide Code Reuse
   url: /Reuse/
-- text: Federally Funded Custom Code as OSS
+- text: Federally Funded Custom Code as FLOSS
   url: /OSS/
 - text: Implementation
   url: /Implementation/

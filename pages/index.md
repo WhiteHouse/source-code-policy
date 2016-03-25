@@ -7,11 +7,11 @@ description: "Introduction for Public Comment"
 
 ## Introduction for Public Comment
 
-The White House committed to adopting a Government-wide Free Software policy in its [Second Open Government National Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/new_nap_commitments_report_092314.pdf) that "will support improved access to custom software code developed for the Federal Government," emphasizing that using and contributing back to open source software can fuel innovation, lower costs, and benefit the public.<sup id="fnr1"><a href="#fn1">1</a></sup>  In support of that commitment, today the [White House Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is releasing a draft policy to improve the way custom-developed Government code is acquired and distributed moving forward. This policy is consistent with the Federal Government’s long-standing policy of ensuring that "Federal investments in IT (information technology) are merit-based, improve the performance of our Government, and create value for the American people."<sup id="fnr2"><a href="#fn2">2</a></sup>
+The White House committed to adopting a Government-wide Free Software policy in its [Second Open Government National Action Plan](https://www.whitehouse.gov/sites/default/files/microsites/ostp/new_nap_commitments_report_092314.pdf) that "will support improved access to custom software code developed for the Federal Government," emphasizing that using and contributing back to free software can fuel innovation, lower costs, and benefit the public.<sup id="fnr1"><a href="#fn1">1</a></sup>  In support of that commitment, today the [White House Office of Management and Budget (OMB)](https://www.whitehouse.gov/omb/) is releasing a draft policy to improve the way custom-developed Government code is acquired and distributed moving forward. This policy is consistent with the Federal Government’s long-standing policy of ensuring that "Federal investments in IT (information technology) are merit-based, improve the performance of our Government, and create value for the American people."<sup id="fnr2"><a href="#fn2">2</a></sup>
 
-This policy requires that, among other things: (1) new custom code whose development is paid for by the Federal Government be made available for reuse across Federal agencies; and (2) a portion of that new custom code be released to the public as Free Software (OSS).
+This policy requires that, among other things: (1) new custom code whose development is paid for by the Federal Government be made available for reuse across Federal agencies; and (2) a portion of that new custom code be released to the public as Free Software (FLOSS).
 
-We welcome your input on this innovative draft policy. We are especially interested in your comments on considerations regarding the release of custom code as OSS. The draft policy proposes a pilot program requiring covered agencies to release at least 20 percent of their newly-developed custom code, in addition to the release of all custom code developed by Federal employees at covered agencies as part of their official duties, subject to certain exceptions as noted in the main body of the policy.<sup id="fnr3"><a href="#fn3">3</a></sup>
+We welcome your input on this innovative draft policy. We are especially interested in your comments on considerations regarding the release of custom code as FLOSS. The draft policy proposes a pilot program requiring covered agencies to release at least 20 percent of their newly-developed custom code, in addition to the release of all custom code developed by Federal employees at covered agencies as part of their official duties, subject to certain exceptions as noted in the main body of the policy.<sup id="fnr3"><a href="#fn3">3</a></sup>
 
 Considerations regarding releasing custom code as Free Software include:
 
@@ -26,18 +26,18 @@ Considerations regarding releasing custom code as Free Software include:
 
     <li>Would a different minimum percentage be more or less effective in achieving the goals above?</li>
 
-    <li>Would an "open source by default" approach that required all new Federal custom code to be released as OSS, subject to exceptions for things like national security, be more or less effective in achieving the goals above?</li>
+    <li>Would an "free software by default" approach that required all new Federal custom code to be released as FLOSS, subject to exceptions for things like national security, be more or less effective in achieving the goals above?</li>
 
     <li>Is there an alternative approach that OMB should consider?</li>
   </ul>
 
   <li>What are the advantages and disadvantages associated with implementing this type of pilot program? To what extent could this policy have an effect on the software development market? For example, could such a policy increase or decrease competition among vendors, dollar amounts bid on Federal contracts, or total life-cycle cost to the Federal Government? How could it impact new products developed or transparency in quality of vendor-produced code?</li>
 
-  <li>What metrics should be used to determine the impact and effectiveness of the pilot proposed in this draft policy, and of an open source policy more generally?</li>
+  <li>What metrics should be used to determine the impact and effectiveness of the pilot proposed in this draft policy, and of a free software policy more generally?</li>
 
-  <li>What opportunities and challenges exist in Government-wide adoption of an open source policy?</li>
+  <li>What opportunities and challenges exist in Government-wide adoption of a free software policy?</li>
 
-  <li>How broadly should an open source policy apply across the Government? Would a focus on particular agencies be more or less effective?</li>
+  <li>How broadly should a free software policy apply across the Government? Would a focus on particular agencies be more or less effective?</li>
 
   <li>This policy addresses custom code that is created by Federal Government employees as well as custom code that is Federally-procured. To what extent would it be appropriate and desirable for aspects of this draft policy to be applied in the context of Federal grants and cooperative agreements?</li>
 
