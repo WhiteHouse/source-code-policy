@@ -9,6 +9,8 @@ description: "Appendix A: Definitions"
 
 **Code Contributions**: Source code or other materials written by external parties and submitted to the developers/maintainers of a software project. Some common examples of code contributions are bug fixes, new or improved features, and documentation improvements.
 
+**Community of Practice**: For puposes of this policy, a Community of Practice is a group of interested parties that provide governance, code development processes, and maintenace of one or a set of software projects.
+
 **Covered Agency**: For purposes of this policy, a covered agency is one that meets the definition of agency under the Federal Information Security Management Act of 2002 (FISMA). *See* [44 U.S.C. §3502](https://www.gpo.gov/fdsys/granule/USCODE-2011-title44/USCODE-2011-title44-chap35-subchapI-sec3502).
 
 **Custom Code**: Software source code that is written to fulfill a specific purpose that is not already addressed by existing programs or COTS solutions. For the purposes of this policy, custom code development must be fully funded by the Federal Government and is either developed by a contracting entity for use by the Federal Government, or developed by covered agency employees in the course of their official duties.
