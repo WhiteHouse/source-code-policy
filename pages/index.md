@@ -41,7 +41,7 @@ Considerations regarding releasing custom code as Open Source Software include:
 
   <li>This policy addresses custom code that is created by Federal Government employees as well as custom code that is Federally-procured. To what extent would it be appropriate and desirable for aspects of this draft policy to be applied in the context of Federal grants and cooperative agreements?</li>
 
-  <li>How can the policy achieve its objectives for code that is developed with Government funds while at the same time enabling Federal agencies to select suitable software solutions on a case-by-case basis to meet the particular operational and mission needs of the agency? How should agencies consider factors such as performance, total life-cycle cost of ownership, security and privacy protections, interoperability, ability to share or reuse, resources required to later switch vendors, and availability of support?</li>
+  <li>How can the policy achieve its objectives for code that is developed with Government funds while at the same time enabling Federal agencies to select suitable software solutions on a case-by-case basis to meet the particular operational and mission needs of the agency? How should agencies consider factors such as performance, total life-cycle cost of ownership, security and privacy protections, interoperability, accessibility, ability to share or reuse, resources required to later switch vendors, and availability of support?</li>
 
 </ul>
 
