@@ -13,7 +13,7 @@ This policy will accomplish the following objectives:
 
 2. Establish policy requirements for Government-wide source code receipt and reuse, including requirements for covered agencies to require delivery of source code produced in the performance of a Federal Government agreement and, subject to certain exceptions,<sup id="fnr14"><a href="#fn14">14</a></sup> make it broadly available Government-wide;
 
-3. Establish requirements for releasing code in the public domain or as OSS, including requirements for covered agencies to secure the rights necessary to make some custom-developed source code releasable to the public as OSS; and
+3. Establish requirements for developing and releasing code in the public domain or as OSS, including requirements for covered agencies to secure the rights necessary to make some custom-developed source code releasable to the public as OSS; and
 
 4. Provide instructions and support to facilitate implementation of this policy.
 
