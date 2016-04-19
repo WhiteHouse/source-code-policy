@@ -11,7 +11,7 @@ The White House committed to adopting a Government-wide Open Source Software pol
 
 This policy requires that, among other things: (1) new custom code whose development is paid for by the Federal Government be made available for reuse across Federal agencies; and (2) a portion of that new custom code be released to the public as Open Source Software (OSS).
 
-We welcome your input on this innovative draft policy. We are especially interested in your comments on considerations regarding the release of custom code as OSS. The draft policy proposes a pilot program requiring covered agencies to release at least 20 percent of their newly-developed custom code, in addition to the release of all custom code developed by Federal employees at covered agencies as part of their official duties, subject to certain exceptions as noted in the main body of the policy.<sup id="fnr3"><a href="#fn3">3</a></sup>
+We welcome your input on this innovative draft policy. We are especially interested in your comments on considerations regarding the release of custom code as OSS. The draft policy proposes a pilot program requiring covered agencies to release at least 20 percent of their newly-developed custom code. This pilot is in addition to the release of all custom code developed by Federal employees at covered agencies as part of their official duties. Both are subject to certain exceptions as noted in the main body of the policy.<sup id="fnr3"><a href="#fn3">3</a></sup>
 
 Considerations regarding releasing custom code as Open Source Software include:
 
