@@ -35,7 +35,8 @@ Communities are critically important to the long term viability of open source p
 
 <ol type="a">
 
-<li>Leveraging Existing Communities – Whenever possible, custom code released to the public as OSS should be incorporated into existing communities of practice that are self-sustaining. For example, there are already existing communities for electronic health records and geospatial software.<sup id="fnr37"><a href="#fn37">37</a></sup> Government agencies should only develop their own communities when existing communities do not satisfy their needs.</li>
+<li>Leveraging Existing Communities – Whenever possible, custom code released to the public as OSS should be incorporated into existing communities of practice that are self-sustaining. For example, there are already existing communities for electronic health records and geospatial software.<sup id="fnr37"><a href="#fn37">37</a></sup> Government agencies should only develop their own communities when existing communities do not satisfy their needs. 
+This does not preclude creating a small core team that takes responsibility for a specific code repository or module, responding to issues and pull-requests promptly and potentially having a separate mailing list.</li>
 
 <li>Open Development – Software that is custom-developed for or by covered agencies should, to the extent possible and appropriate, be developed in the open. Open development practices provide an environment in which open source code can flourish and repurposed. This principle, as well as the principle for "Releasing Code" below, shall include the distribution of a minimum viable product as open source code, engaging the public before official release,<sup id="fnr38"><a href="#fn38">38</a></sup> and drawing upon the public's knowledge for bug fixes, algorithmic optimization, and other improvements to the project.</li>
 
