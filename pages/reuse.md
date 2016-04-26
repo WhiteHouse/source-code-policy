@@ -13,7 +13,7 @@ As discussed earlier, the reuse of custom-developed source code purchased by the
 
 1. Require delivery of the underlying custom source code, associated documentation, and related files—from the third-party developer or vendor to the Federal organization (including build instructions and, when applicable, software user guides, other associated documentation, and automated test suites); and
 
-2. Secure unlimited rights to the custom source code, associated documentation, and related files—which includes the rights to reproduction, reuse, and distribution of the custom source code, associated documentation, and related files across the Federal Government.
+2. Secure unlimited rights to the custom source code, associated documentation, and related files—which includes the rights to reproduction, reuse, modification, and distribution of the custom source code, associated documentation, and related files across the Federal Government.
 
 Covered agencies that enter into agreements for the development of software should require unlimited data rights in accordance with this policy. Additional guidance, including sample language for agreements, shall be provided as a part of Project Open Source.<sup id="fnr21"><a href="#fn21">21</a></sup>
 
