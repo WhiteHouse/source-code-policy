@@ -2,64 +2,61 @@
 layout: page
 title: Federal Source Code Policy | Implementation
 permalink: /Implementation/
-description: "Implementation"
+description: Implementation
 ---
 
-## 6. Implementation
+## 7. Implementation
 
-The Federal Information Technology Acquisitions Reform Act (FITARA)<sup id="fnr42"><a href="#fn42">42</a></sup> creates clear responsibilities for agency CIOs related to IT investments and planning as well as requiring that agency CIOs be involved in the IT acquisition process. OMB’s FITARA implementation guidance—M-15-14: Management and Oversight of Federal Information Technology<sup id="fnr43"><a href="#fn43">43</a></sup>—established a "common baseline" for roles, responsibilities, and authorities of the agency CIO and the roles of other applicable Senior Agency Officials<sup id="fnr44"><a href="#fn44">44</a></sup> in managing IT as a strategic resource. Accordingly, the heads of covered agencies must ensure that CIOs are positioned with the responsibility and authority necessary to implement the requirements of this policy in coordination with other Senior Agency Officials. As appropriate, the CIO should also work with the agency's public affairs staff, open government staff, web manager or digital strategist, program owners and other leadership, to properly identify, publish, and work with communities concerning their open source software projects.
+### 7.1 Roles and Responsibilities
 
-**Project Open Source**
+The Federal Information Technology Acquisition Reform Act (FITARA)<sup id="fnr32"><a href="#fn32">32</a></sup>  creates clear responsibilities for agency CIOs related to IT investments and planning, as well as requiring that agency CIOs be involved in the IT acquisition process. OMB’s FITARA implementation guidance<sup id="fnr33"><a href="#fn33">33</a></sup> established a “common baseline” for roles, responsibilities, and authorities of the agency CIO and the roles of other applicable Senior Agency Officials  in managing IT as a strategic resource. Accordingly, agency heads must ensure that CIOs and Senior Agency Officials,<sup id="fnr34"><a href="#fn34">34</a></sup> including CAOs, are positioned with the responsibility and authority necessary to implement the requirements of this policy. As appropriate, Senior Agency Officials should also work with the agency's public affairs staff, open government staff, web manager or digital strategist, program owners, and other leadership to properly identify, publish, and collaborate with communities on their OSS projects.
 
-Within 90 days of the publication date of this policy, the Administration will launch Project Open Source,<sup id="fnr45"><a href="#fn45">45</a></sup> an online repository of tools, best practices, and schemas to help covered agencies implement this guidance. Project Open Source will be accessible at [https://project-open-source.cio.gov](https://project-open-source.cio.gov). Project Open Source will evolve over time as a community resource to facilitate the adoption of good custom source code development and release practices. Guidance and language on open source licenses will be provided as part of Project Open Source. The repository will include further definitions, evaluation metrics, checklists, case studies, model contract language and more, and will enable collaboration across the Federal Government in partnership with the public.
+Moreover, in support of the objectives and requirements of this policy, agencies should strengthen internal capacity to efficiently and securely deliver OSS as part of regular operations. Additional information on this topic will be provided on Code.gov.
 
-**Code Repositories**
+### 7.2 Code Inventories and Discovery
 
-Accessible repositories for the storage, discussion, and modification of custom code are a critical portion of both the Government-wide reuse and OSS pilot program portions of this policy. Covered agencies should utilize existing code repositories and common third-party repository platforms as necessary to comply with this policy.<sup id="fnr46"><a href="#fn46">46</a></sup>  Project Open Source will contain additional guidance on using custom code repositories as related to achieving the objectives of this policy.  
+Inventories are a means of discovering information such as the functionality and location of potentially reusable or releasable custom-developed code. Within 120 days of the publication date of this policy, each agency must update—and thereafter keep up to date—its inventory of agency information resources to include an enterprise code inventory that lists custom-developed code for or by the agency after the publication of this policy. Each agency’s inventory will be reflected on Code.gov. The inventory will indicate whether the code is available for Federal reuse, is available publicly as OSS, or cannot be made available due to a specific exception listed in this policy. Agencies shall fill out this information based on a metadata schema that OMB will provide on Code.gov.
 
-**Code Inventories and Discovery**
+### 7.3 Code.gov
 
-Code inventories are a means of discovering information such as the functionality and location of potentially reusable or releasable custom code repositories. Within 90 days of the publication date of this policy, each covered agency must update, and thereafter keep up to date, its inventory of agency information resources (as required by OMB Circular A-130)<sup id="fnr47"><a href="#fn47">47</a></sup> to include an enterprise code inventory that lists all custom code developed for or by the agency after the publication date of this policy. The enterprise code inventory is not intended to house the custom code itself; rather, it is intended to serve as a tool for discovering custom code that may be available for Government-wide reuse or as OSS, and to provide transparency into custom software code that is developed using Federal funds. The inventory will indicate whether the code is available for Federal reuse, is available publicly as OSS, or cannot be made available due to a specific exception from this policy.
+Within 90 days of the publication date of this policy, the Administration will launch [https://www.code.gov](https://www.code.gov),<sup id="fnr35"><a href="#fn35">35</a></sup> an online collection of tools, best practices, and schemas to help agencies implement this policy. The website will include additional materials such as definitions, evaluation metrics, checklists, case studies, and model contract language—with the goal of enabling collaboration across the Federal Government and advancing the Government’s partnership with the public.
 
-Covered agencies must describe projects within the inventory using extensible metadata that will be described in an inventory schema on Project Open Source. OMB will provide this inventory schema to covered agencies within 60 days of the publication date of this policy. Within 120 days of the publication of this policy, OMB will identify a suitable central location to make the reported OSS searchable and discoverable for agencies and the public. Please refer to Project Open Source for best practices, tools, and schema to implement the enterprise code inventory and harvestable files.
+Additionally, Code.gov will serve as the primary discoverability portal for custom-developed code intended both for Government-wide reuse and for release as OSS. Note that Code.gov is not intended to house the custom-developed code itself; rather, it is intended to serve as a tool for discovering custom-developed code that may be available for Government-wide reuse or as OSS, and to provide transparency into custom-developed code that is developed using Federal funds. This discoverability portal will be publically accessible and searchable via a variety of fields and constraints, such as the name of the project, its intended use, and the agency releasing the source code. Code.gov will evolve over time as a community resource to facilitate the adoption of good custom source code development, sharing, and reuse practices.
 
-**Updated TechFAR Guidance**
+### 7.4 Code Repositories
 
-OMB’s Office of Federal Procurement Policy (OFPP) and the U.S. Digital Service (USDS) will update the TechFAR Handbook<sup id="fnr48"><a href="#fn48">48</a></sup> to highlight how agencies can go about securing Federal reuse rights and open source licenses as part of their acquisitions processes.
+Accessible, buildable, version-controlled repositories for the storage, discussion, and modification of custom-developed code are critical to both the Government-wide reuse and OSS pilot program sections of this policy. Agencies should utilize existing code repositories and common third-party repository platforms as necessary in order to satisfy the requirements of this policy.<sup id="fnr36"><a href="#fn36">36</a></sup> Code.gov will contain additional information on this topic.
 
-**Agency Policy**
+### 7.5 Licensing
 
-Within 90 days of the publication date of this policy, each covered agency CIO must develop an agency-wide policy that addresses the requirements of this memo. In accordance with OMB guidance,<sup id="fnr49"><a href="#fn49">49</a></sup> these policies will be posted publicly. Moreover, within 90 days of the publication date of this policy, each covered agency’s CIO office must work to correct or amend any policies that are inconsistent with the requirements of this memo, including the correction of policies that automatically treat OSS as noncommercial software.
+Licensing is a critical component of OSS and can affect how the source code can be used and modified. Accordingly, when agencies release custom-developed code as OSS, they shall append appropriate OSS licenses to the source code. Additional information on licensing will be available on Code.gov.
 
-**Accountability Mechanisms**
+### 7.6 Agency Policy
 
-Progress on agency implementation of the actions required in this policy will be primarily assessed by OMB through analysis of each covered agency’s internal Government repositories, public OSS repositories, and code inventories, as well as data obtained through the quarterly Integrated Data Collection (IDC), quarterly PortfolioStat sessions, the IT Dashboard, and additional mechanisms to be provided via Project Open Source.<sup id="fnr50"><a href="#fn50">50</a></sup> 
+Within 90 days of the publication date of this policy, each agency’s CIO—in consultation with the agency’s CAO—shall develop an agency-wide policy that addresses the requirements of this document. For example, the policy should address how the agency will ensure that an appropriate alternatives analysis has been conducted before considering the acquisition of an existing commercial solution or a custom-developed solution. In accordance with OMB guidance,<sup id="fnr37"><a href="#fn37">37</a></sup> these policies will be posted publicly. Moreover, within 90 days of the publication date of this policy, each agency’s CIO office must correct or amend any policies that are inconsistent with the requirements of this document, including the correction of policies that automatically treat OSS as noncommercial software.
 
-**Exceptions to Government-wide Reuse or to Publication**
+### 7.7 Accountability Mechanisms 
 
-The exceptions provided below may be applied, in specific instances, to exempt a covered agency from (1) sharing custom code with other Government agencies, or (2) publically releasing custom code that is developed by covered agency employees.  Any exceptions used must be approved and documented by the agency’s CIO. Please note that the exceptions below do not exempt a covered agency from acquiring unlimited data rights in newly procured custom code. Moreover, these exceptions do not apply in calculating a covered agency’s codebase for purposes of the OSS pilot program; but covered agencies should, as part of their internal 20 percent of custom code selection process, refrain from selecting code that would fit any of the characteristics listed below. In the event that a covered agency’s CIO believes that the agency cannot meet the 20 percent requirement of the OSS pilot program because the agency is otherwise prohibited from releasing more than 80 percent of its code, the CIO should consult with OMB.
+Progress on agency implementation of this policy will be primarily assessed by OMB through an analysis of each agency’s internal Government repositories, public OSS repositories, and code inventories on Code.gov, as well as data obtained through the quarterly Integrated Data Collection (IDC), quarterly PortfolioStat sessions, the IT Dashboard, and additional mechanisms to be provided via Code.gov.<sup id="fnr38"><a href="#fn38">38</a></sup>
 
-Applicable exceptions are as follows:
-
-* The release of the item is restricted by another statute or regulation, such as the Export Administration Regulations, the International Traffic in Arms Regulation, or the laws and regulations governing classified information; 
-* The release of the item would compromise national security, confidentiality, or individual privacy;
-* The release of the item would create an identifiable risk to the stability, security, or integrity of the agency’s systems or personnel;
-* The release of the item would compromise agency mission, programs, or operations; or
-* The CIO believes it is in the national interest to exempt publicly releasing the work.
-
-OMB expects exceptions to be rare and the result of a significant Government interest. Excepted software must still be listed in the agency’s enterprise code inventory, with certain redactions allowed. Please refer to Project Open Source for additional guidance on this topic. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 ### Footnotes
 
 <ul style="list-style-type:none">
 
-<li id="fn42"><sup>42</sup> <em>See P.L 113-291, Subtitle D</em> (<a href="https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148">https://www.congress.gov/113/plaws/publ291/PLAW-113publ291.pdf#page=148</a>) <a href="#fnr42">&#8617;</a></li>
-<li id="fn43"><sup>43</sup> <em>See</em> <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf">https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf</a> <a href="#fnr43">&#8617;</a></li>
-<li id="fn44"><sup>44</sup> Senior Agency Officials include positions that may include the Chief Acquisition Officer, Chief Operating Officer, Chief Financial Officer, Chief Acquisitions Officer, Chief Technology Officer, Chief Data Officer, Senior Agency Official for Privacy, Chief Information Security Officer, and Program Manager. <a href="#fnr44">&#8617;</a></li>
-<li id="fn45"><sup>45</sup> Project Open Source will be modeled off of the successful Project Open Data platform that facilitates implementation of the Open Data Policy. <em>See</em> <a href="https://project-open-data.cio.gov/">https://project-open-data.cio.gov/</a>. <a href="#fnr45">&#8617;</a></li>
-<li id="fn46"><sup>46</sup> Covered agencies should ensure access to these services. <em>See</em> OMB Memorandum M-10-23 (<em>Guidance for Agency Use of Third-Party Websites and Applications</em>). <a href="#fnr46">&#8617;</a></li>
-<li id="fn47"><sup>47</sup> <em>See</em> OMB Circular A-130, Transmittal Memorandum No. 4, section 8(b)(2)(a). <a href="#fnr47">&#8617;</a></li>
-<li id="fn48"><sup>48</sup> <em>See</em> <a href="https://playbook.cio.gov/techfar/">https://playbook.cio.gov/techfar/</a> <a href="#fnr48">&#8617;</a></li>
-<li id="fn49"><sup>49</sup> <em>See</em> M-15-14 at <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf">https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf</a> (requiring thatIT policies be posted publicly at <em>https://[agency].gov/digitalstrategy</em>, and included as a downloadable dataset in the agency’s Public Data Listing). <a href="#fnr49">&#8617;</a></li>
-<li id="fn50"><sup>50</sup> <em>See</em> <a href="https://itdashboard.gov/">https://itdashboard.gov/</a> <a href="#fnr50">&#8617;</a></li>
+	<li id="fn32"><sup>32</sup> FITARA was codified as part of the <em>National Defense Authorization Act for Fiscal Year 2015</em> (Title VIII, Subtitle D, H.R. 3979); accessible at <a href="https://www.congress.gov/bill/113th-congress/house-bill/3979">https://www.congress.gov/bill/113th-congress/house-bill/3979</a>. <a href="#fnr32">&#8617;</a></li>
+
+	<li id="fn33"><sup>33</sup> <em>M-15-14: Management and Oversight of Federal Information Technology</em>, Office of Mgmt. & Budget, Exec. Office of the President, June 10, 2015. <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf">https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf</a>. <a href="#fnr33">&#8617;</a></li>
+
+	<li id="fn34"><sup>34</sup> Senior Agency Officials include positions that may include the Chief Acquisition Officer, Chief Operating Officer, Chief Financial Officer, Chief Technology Officer, Chief Data Officer, Senior Agency Official for Privacy, Chief Information Security Officer, and Program Manager. <a href="#fnr34">&#8617;</a></li>
+
+	<li id="fn35"><sup>35</sup> Code.gov will be modeled after Data.gov (<a href="https://www.data.gov">https://www.data.gov</a>) and Project Open Data (<a href="https://project-open-data.cio.gov/">https://project-open-data.cio.gov/</a>). <a href="#fnr35">&#8617;</a></li>
+
+	<li id="fn36"><sup>36</sup> Covered agencies should ensure access to these services. <em>See M-10-23: Guidance for Agency Use of Third-Party Websites and Applications</em>, Office of Mgmt. & Budget, Exec. Office of the President, June 25, 2010. <a href="https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf">https://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-23.pdf</a>. <a href="#fnr36">&#8617;</a></li>
+
+	<li id="fn37"><sup>37</sup> <em>See M-15-14: Management and Oversight of Federal Information Technology</em>, Office of Mgmt. & Budget, Exec. Office of the President, June 10, 2015. <a href="https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf">https://www.whitehouse.gov/sites/default/files/omb/memoranda/2015/m-15-14.pdf</a>. This requires that IT policies be posted publicly at <em>https://[agency].gov/digitalstrategy</em>, and included as a downloadable dataset in the agency’s Public Data Listing. <a href="#fnr37">&#8617;</a></li>
+
+	<li id="fn38"><sup>38</sup> PortfolioStat is the core oversight tool used by OFCIO to improve both the efficiency and effectiveness of Federal IT. PortfolioStat’s principle objectives are to serve as an overview of each agency’s portfolio of IT investments and to oversee execution of OFCIO and OMB-wide policy. For information on the IT Dashboard, see <a href="https://itdashboard.gov/">https://itdashboard.gov/</a>.  <a href="#fnr38">&#8617;</a></li>
+
 </ul>
+

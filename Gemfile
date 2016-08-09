@@ -1,9 +1,10 @@
 source "https://rubygems.org"
 
 gem 'jekyll'
-gem "redcarpet"
-gem 'rouge'
+#gem "redcarpet"
+#gem 'rouge'
 
 gem 'bourbon'
 gem 'sass'
 gem 'neat'
+gem 'jekyll-redirect-from'

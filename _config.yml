@@ -1,8 +1,8 @@
 # markdown 
-markdown: redcarpet
-redcarpet:
-  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
-highlighter: pygments
+markdown: kramdown
+#redcarpet:
+#  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
+#highlighter: pygments
 
 exclude:
 - ".ruby-version"
@@ -20,7 +20,7 @@ exclude:
 - LICENSE.md
 
 # Site metadata
-name: "Source Code Policy"
+name: "Federal Source Code Policy"
 description: "Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software"
 baseurl: https://sourcecode.cio.gov
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
@@ -34,27 +34,31 @@ branch: gh-pages
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
-  url: /
 - text: Introduction
-  url: /introduction/
-- text: Objectives
+  url: /
+- text: 1 - Objectives
   url: /Objectives/
-- text: Scope and Applicability
+- text: 2 - Scope and Applicability
   url: /Scope/
-- text: Software Procurement Considerations
-  url: /Procurement/
-- text: Government-Wide Code Reuse
+- text: 3 - Three-Step Software Solutions Analysis
+  url: /Three-Step-Software-Solutions-Analysis/
+- text: 4 - Government-Wide Code Reuse
   url: /Reuse/
-- text: Federally Funded Custom Code as OSS
+- text: 5 - Open Source Software
   url: /OSS/
-- text: Implementation
-  url: /Implementation/
+- text: 6 - Exceptions to Government Code Reuse
+  url: /Exceptions/
+- text: 7 - Implementation
+  url: /Implementation
 - text: Appendix A - Definitions
-  url: /Appendixa/
-- text: Appendix B - Procurement Analysis
-  url: /Appendixb/
+  url: /AppendixA/
+ #- text: Introduction
+#  url: /introduction/ 
+
 
 # sass
 sass:
   sass_dir: _sass
+
+gems:
+  - jekyll-redirect-from
