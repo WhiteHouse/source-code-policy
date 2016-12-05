@@ -25,7 +25,7 @@ Agencies must also consider several factors throughout each stage of the three-s
 	<li><u>Hybrid Solutions:</u> Solutions containing a mixture of existing Federal, commercial, and/or custom-developed solutions should be considered throughout each step of the analysis.</li>
 	<li><u>Modular Architecture:</u> Agencies should consider modular approaches to solution architecture. As discussed in the <em>Digital Government Strategy</em>, modularity can reduce overall risk and cost while increasing interoperability and technical flexibility.</li>
 	<li><u>Cloud Computing:</u> Consistent with OMB strategy, agencies are encouraged to evaluate safe and secure cloud computing options throughout each step of the analysis.<sup id="fnr27"><a href="#fn27">27</a></sup></li><li><u>Open Standards:</u> Regardless of the specific solution selected, all software procurements and Government software development projects should consider utilizing open standards whenever practicable in order to increase the interoperability of all Government software solutions. Open standards enable software to be used by anyone at any time, and can spur innovation and growth regardless of the technology used for implementation—be it proprietary, mixed source, or OSS in nature.</li>
-	<li><u>Targeted Considerations:</u> Agencies must select a software solution that best meets the operational and mission needs of the agency, taking into consideration factors such as performance, total life-cycle cost of ownership, security and privacy protections, interoperability, ability to share or reuse, resources required to later switch vendors, and availability of quality support. These considerations should be taken into account during all three steps of the analysis.</li>
+	<li><u>Targeted Considerations:</u> Agencies must select a software solution that best meets the operational and mission needs of the agency, taking into consideration factors such as performance, total life-cycle cost of ownership, accessibility<sup id="fnr28"><a href="#fn28">28</a></sup>, security and privacy protections, interoperability, ability to share or reuse, resources required to later switch vendors, and availability of quality support. These considerations should be taken into account during all three steps of the analysis.</li>
 </ol>
 
 ### Footnotes
@@ -41,7 +41,8 @@ Agencies must also consider several factors throughout each stage of the three-s
 <li id="fn26"><sup>26</sup> Preference must first be given to procurement of existing commercial solutions through best-in-class vehicles identified by category management policies.
  <a href="#fnr26">&#8617;</a></li>
 <li id="fn27"><sup>27</sup> <em>Federal Cloud Computing Strategy</em>, Office of Mgmt. & Budget, Exec. Office of the President, February 8, 2011. <a href="https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf">https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/federal-cloud-computing-strategy.pdf</a>. <a href="#fnr27">&#8617;</a></li>
-
+<li id="fn28"><sup>28</sup> <em>Strategic Plan for Improving Management of Section 508
+of the Rehabilitation Act</em>, Office of Mgmt. & Budget, Exec. Office of the President, Januarary 24, 2013. <a href="https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf">https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/strategic-plan-508-compliance.pdf</a>. <a href="#fnr28">&#8617;</a></li>
 </ul>
 
  
