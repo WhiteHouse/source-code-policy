@@ -104,6 +104,7 @@ header {
     color: $white;
 
     position: fixed;
+    z-index: 10;
     height: $header-height;
     width: 100%;
     z-index: 1;
